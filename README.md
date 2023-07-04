@@ -51,8 +51,11 @@
 
 ## 🌟 Github Stat 
 
-
-
-
-![Vegatality's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegatality&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegatality&langs_count=3&layout=compact)]()
+<div>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vegatality&exclude_repo=Vegatality.github.io&langs_count=3&layout=compact&theme=transparent" height="180em" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vegatality&theme=transparent&show_icons=true" height="180em" />
+</a>
+</div>
