@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome%20&fontSize=90)
 
+<div>
+    <h3>안녕하세요! FE 신입개발자 조형민입니다.</h3>
+    <p>현재 알고 있는 스택에 안주하지 않고 새로운 기술을 탐구하고 적용하는 것을 좋아합니다.</p>
+    <p>더 많은 협업을 통해 더 넓은 인사이트를 얻는 것을 희망하고 있습니다.</p>
+</div>
 
 ## 📖 blog 📖
 <a href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=red"/></a>
