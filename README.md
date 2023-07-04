@@ -12,6 +12,7 @@
 ## 📖 blog 📖
 <a href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=tistory&logoColor=black"/></a>
 
+<br/>
 
 ## 🛠️ Tech Stack
 <div>
@@ -30,11 +31,15 @@
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?&logo=tailwindcss&logoColor=white"/>
 </div>
 
+<br/>
+
 ## ⚙️ Version Control
 <div>
     <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"/>
 </div>
+
+<br/>
 
 ## 🗯️ Communication
 <div>
@@ -42,7 +47,8 @@
     <img src="https://img.shields.io/badge/slack-4A154B?&logo=slack&logoColor=white"/>
 </div>
 
+<br/>
 
-## 🌟Github Stat 
+## 🌟 Github Stat 
 ![Vegatality's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegatality&show_icons=true&theme=radical)
 
