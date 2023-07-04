@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=8,9,10&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=20,21,22&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
 
 <div>
     <h3>안녕하세요! FE 신입개발자 조형민입니다.</h3>
