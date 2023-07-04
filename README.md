@@ -14,6 +14,9 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+    ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white)
+    <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </div>
 
 
