@@ -13,10 +13,15 @@
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
-    <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/redux-764ABC?&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/zustand-000000?&logo=zustand&logoColor=white"/>
+    <img src="https://img.shields.io/badge/axios-5A29E4?&logo=axios&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ReactQuery-FF4154?&logo=reactquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-FF4154?&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?&logo=styledcomponents&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?&logo=tailwindcss&logoColor=white"/>
+
 </div>
 
 
