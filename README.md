@@ -1,6 +1,7 @@
 ### Hi there 👋
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004680,50:00a6e6,100:8ccfff&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:3498db,100:87ceeb&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:192f6a,50:223a88,100:2c45a4&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
+
 
 <div>
     <h3>안녕하세요! FE 신입개발자 조형민입니다.</h3>
