@@ -43,6 +43,6 @@
 </div>
 
 
-## 🌲🏁⭐🌟🌳🌱Github Stat
+## 🌟Github Stat 
 ![Vegatality's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegatality&show_icons=true&theme=radical)
 
