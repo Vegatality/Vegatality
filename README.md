@@ -50,7 +50,5 @@
 <br/>
 
 ## 🌟 Github Stat 
-<div>
-    ![Vegatality's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegatality&show_icons=true&theme=radical)
-</div>
+![Vegatality's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegatality&show_icons=true&theme=radical)
 
