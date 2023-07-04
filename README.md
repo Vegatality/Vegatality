@@ -52,10 +52,10 @@
 ## 🌟 Github Stat 
 
 <div>
-<a href="s">
+<a href="/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vegatality&exclude_repo=Vegatality.github.io&langs_count=3&layout=compact&theme=transparent" height="180em" />
 </a>
-<a href="s">
+<a href="/">
   <img src="https://github-readme-stats.vercel.app/api?username=Vegatality&theme=transparent&show_icons=true" height="180em" />
 </a>
 </div>
