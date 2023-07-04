@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004680,50:00a6e6,100:8ccfff&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b5ebff,50:5cd5ff,100:71e1ff&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fddb92,50:d1fdff,100:91eae4&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
 
 
 <div>
