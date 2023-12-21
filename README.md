@@ -11,7 +11,7 @@
 <br/>
 
 
-## 📖 blog 📖
+## 📖 blog
 <a href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=tistory&logoColor=black"/></a>
 
 <br/>
@@ -43,7 +43,7 @@
 
 <br/>
 
-## 🗯️ Communication
+## 💬 Communication
 <div>
     <img src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/slack-4A154B?&logo=slack&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 <br/>
 
-## 🌟 Github Stat 
+## ✨ Github Stat 
 
 <div>
 <a href="/">
@@ -62,7 +62,7 @@
 </a>
 </div>
 
-## My Development Philosophy
+## 🚀 My Development Philosophy
 <q>
     It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
 </q>
