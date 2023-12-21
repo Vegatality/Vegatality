@@ -10,6 +10,12 @@
 </div>
 <br/>
 
+## 🚀 My Development Philosophy
+<q>
+    It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
+</q>
+<br />
+- Mark Twain
 
 ## 📖 blog
 <a href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=tistory&logoColor=black"/></a>
@@ -61,10 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vegatality&theme=transparent&show_icons=true" height="180em" />
 </a>
 </div>
-
-## 🚀 My Development Philosophy
-<q>
-    It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
-</q>
-<br />
-- Mark Twain
