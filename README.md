@@ -61,3 +61,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vegatality&theme=transparent&show_icons=true" height="180em" />
 </a>
 </div>
+
+## My Development Philosophy
+<q>
+    "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so."
+    <br />
+    - Mark Twain
+</q>
