@@ -2,6 +2,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004680,50:00a6e6,100:8ccfff&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,100:00c6fb&height=300&section=header&text=welcome%20&fontSize=90&fontColor=fafaf7)
 
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVegatality%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>   
 
 <div>
     <h3>안녕하세요! FE 신입개발자 조형민입니다.</h3>
@@ -9,6 +12,7 @@
     <p> 🎇 많은 협업을 통해 더 넓은 인사이트를 얻기 위해 노력하고 있습니다.</p>
 </div>
 <br/>
+
 
 ## 🚀 My Development Philosophy
 <q>
