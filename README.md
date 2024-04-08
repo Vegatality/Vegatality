@@ -23,7 +23,10 @@
 - Mark Twain
 
 ## 📖 blog
-<a href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=tistory&logoColor=black"/></a>
+<div style="display: flex; flex-direction: column;">
+    <a style="display: block" href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=tistory&logoColor=black"/></a>
+    <a style="display: block" href="vegatality.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/gatsby-blog-663399?style=social&logo=gatsby&logoColor=black"/></a>
+</div>
 
 <br/>
 
