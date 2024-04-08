@@ -25,7 +25,7 @@
 ## 📖 blog
 <div style="display: flex; flex-direction: column;">
     <a href="https://olimjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=tistory&logoColor=black"/></a>
-    <a href="vegatality.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/gatsby-blog-663399?style=social&logo=gatsby&logoColor=black"/></a>
+    <a href="https://vegatality.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/gatsby-blog-663399?style=social&logo=gatsby&logoColor=black"/></a>
 </div>
 
 <br/>
