@@ -38,6 +38,7 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/redux-764ABC?&logo=redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/zustand-000000?&logo=zustand&logoColor=white"/>
     <img src="https://img.shields.io/badge/axios-5A29E4?&logo=axios&logoColor=white"/>
